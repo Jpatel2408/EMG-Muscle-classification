@@ -1,0 +1,13 @@
+# Ignore data folder
+data/
+
+# Ignore environment folder
+env/
+
+# Ignore other common files and folders
+.DS_Store
+*.log
+*.tmp
+*.env
+.vscode/
+.idea/
