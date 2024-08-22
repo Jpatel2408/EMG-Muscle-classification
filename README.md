@@ -14,7 +14,7 @@ Follow these steps to set up and run the project:
 
 ### 1. Install the Required Dependencies
 
-1. Ensure you have Python 3.x installed.
+1. Ensure you have Python 3.x installed. (We have used Python 3.12.4 version)
 2. Install the required Python packages by running the following command:
 
    ```bash
@@ -44,15 +44,7 @@ Follow these steps to set up and run the project:
 2. The notebook contains the code to load the CSV data, preprocess it, and train machine learning models to classify muscle activity based on the EMG signals.
 3. Run the cells in the notebook sequentially to train and evaluate the models.
 
-### 5. Adding More Data
-
-- You can add more EMG data from additional participants to the `data/` folder.
-- After adding new data, rerun the `transfordata.py` script to include the new data in the CSV file.
-- Once the new data is included, you can rerun the Jupyter Notebook to train the models with the updated dataset.
-
 ## Conclusion
 
-This project provides a comprehensive pipeline for transforming raw EMG data into a format suitable for machine learning model training. By following the steps outlined above, you can easily run the project and experiment with different models and techniques to classify muscle activities based on EMG data.
+you can easily run the project and experiment with different models and techniques to classify muscle activities based on EMG data.
 ```
-
-This text is fully formatted in Markdown, ready to be used in your `README.md` file.
